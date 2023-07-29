@@ -16,7 +16,7 @@ This is the project for the UT Fullstack bootcamp which generates an svg and put
   ## INSTALLATION
   just have our files on hand and ready to go. You also want inquirer, which is a module of node js installed. 
   ## USAGE
-  fill out the form for making a readme and be precise
+  fill out the form for making a svg and be precise
   ## CONTRIBUTIONS
   I was helped a lot by witnessing and talking to shawn, I did like how I condensed my file structure though.
   ## TESTS
