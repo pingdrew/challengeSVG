@@ -26,4 +26,4 @@ This is the project for the UT Fullstack bootcamp which generates an svg and put
   ## CONTACTS
   pingdrew0@gmail.com
   ## VIDEO
-  [Untitled_ Jul 23, 2023 12_44 AM (1).webm](https://github.com/pingdrew/challengeWriteToFile/assets/136511402/c2c04f2d-86b4-47c8-b917-b47f06be8c07)
+  [Untitled_ Jul 23, 2023 12_44 AM (1).webm](https://drive.google.com/file/d/1BgvKVq0wlXOwGWHKiIb-YsZ5-v1uR-yk/view)
